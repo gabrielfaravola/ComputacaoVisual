@@ -1,4 +1,4 @@
-# [Data] — [Título do Post]
+# [Título do Post] — [Data]
 
 > **Computação Visual**
 
@@ -16,4 +16,4 @@
 
 ---
 
-[← Voltar para a página inicial](index.md)
+[← Voltar para a página inicial](../index.md)
