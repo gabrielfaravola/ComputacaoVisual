@@ -14,14 +14,6 @@
 
 ---
 
-## 💡 O que aprendi
-
-Esta seção será atualizada no final da disciplina com alguns dos principais conceitos e aprendizados adquiridos.
-
-> *Última atualização: 12/11/2026*
-
----
-
 <p align="center">
   <i>Blog desenvolvido para a disciplina de Computação Visual.</i>
 </p>
