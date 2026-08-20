@@ -1,7 +1,7 @@
-# 27/08 — Computação Visual
-
+# Computação Visual - 27/08
 
 ---
+
 ## O que eu esperava da disciplina
 
 Antes de iniciar a disciplina, eu imaginava que Computação Visual fosse um conteúdo relacionado à forma como um computador, a partir de operações lógicas e matemáticas realizadas por meio de bits, consegue processar, representar e gerar imagens gráficas.
