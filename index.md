@@ -1,10 +1,10 @@
 # 🎨 Computação Visual
 
-> **Disciplina:** Computação Visual
-> **Aluno:** Gabriel Farávola
-> **Curso:** Ciência da Computação
-> **Instituição:** Universidade Presbiteriana Mackenzie
-> **Prof. André Kishimoto** 
+> **Disciplina:** Computação Visual<br>
+> **Aluno:** Gabriel Farávola<br>
+> **Curso:** Ciência da Computação<br>
+> **Instituição:** Universidade Presbiteriana Mackenzie<br>
+> **Prof. André Kishimoto**
 
 ---
 
