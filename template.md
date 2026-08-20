@@ -10,18 +10,6 @@
 
 ---
 
-## [Título]
-
-[Escreva aqui...]
-
----
-
-## [Título]
-
-[Escreva aqui...]
-
----
-
 ### 🔗 Referências
 
 - [Referência](LINK)
