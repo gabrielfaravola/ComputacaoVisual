@@ -28,7 +28,7 @@ Ao longo do semestre, este blog será utilizado para registrar os conteúdos est
 
 Nesta seção, serão organizados os registros semanais dos conteúdos estudados.
 
-* [27/08 — Computação Visual](c01.md)
+* [27/08 — Computação Visual](p27-08.md)
 
 ---
 
