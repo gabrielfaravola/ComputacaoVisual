@@ -21,6 +21,10 @@ Computação Visual está na intersecção entre três grandes áreas: Computaç
 A proposta da disciplina parece ser abordar os principais conceitos de cada uma dessas áreas e entender como elas se relacionam dentro da Computação Visual. Assim, não se trata apenas de estudar como imagens são geradas por computadores, mas também como elas podem ser processadas, analisadas e interpretadas computacionalmente.
 
 ---
+## Post Semanais
 
+[1. Computação Visual?](c01.md)
+
+---
 ### 💡 O que aprendi
  > *Atualizações 12/11...
