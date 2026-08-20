@@ -1,7 +1,5 @@
 # [Título do Post] — [Data]
 
-> **Computação Visual**
-
 ---
 
 ## [Título]
