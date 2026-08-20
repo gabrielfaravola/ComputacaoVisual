@@ -10,7 +10,7 @@
 
 ## Posts Semanais
 
-* [27/08 — Computação Visual](p27-08.md)
+* [Computação Visual - 27/08](post01.md)
 
 ---
 
