@@ -10,8 +10,8 @@
 
 ## Posts Semanais
 
-* [Computação Visual - 27/08](posts/p01.md)
-* [Fundamentos da Representação de Imagens Digitais](posts/p02.md)
+* [O que é Computação Visual? - 13/08](posts/p01.md)
+* [Fundamentos da Representação de Imagens Digitais - 20/08](posts/p02.md)
 
 ---
 
