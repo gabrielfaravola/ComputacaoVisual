@@ -14,6 +14,7 @@
 * [Fundamentos da Representação de Imagens Digitais - 20/08](posts/p02.md)
 * [Transformações de Intensidade - 27/08](posts/p03.md)
 * [Processamento de Histograma - 03/09](posts/p04.md)
+* [Interpolação - 10/09](posts/p05.md)
 
 ---
 
