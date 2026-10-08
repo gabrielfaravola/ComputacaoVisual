@@ -15,6 +15,7 @@
 * [Transformações de Intensidade - 27/08](posts/p03.md)
 * [Processamento de Histograma - 03/09](posts/p04.md)
 * [Interpolação - 03/09](posts/p05.md)
+* [Filtragem Espacial - 10/09](posts/p06.md)
 
 ---
 
