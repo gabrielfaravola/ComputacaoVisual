@@ -16,6 +16,7 @@
 * [Processamento de Histograma - 03/09](posts/p04.md)
 * [Interpolação - 03/09](posts/p05.md)
 * [Filtragem Espacial - 10/09](posts/p06.md)
+* [Domínio da Frequência - 15/10](posts/p07.md)
 
 ---
 
