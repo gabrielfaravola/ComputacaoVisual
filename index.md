@@ -17,6 +17,7 @@
 * [Interpolação - 03/09](posts/p05.md)
 * [Filtragem Espacial - 10/09](posts/p06.md)
 * [Domínio da Frequência - 15/10](posts/p07.md)
+* [Reflexão sobre a disciplina - 12/11](posts/p08.md)
 
 ---
 
